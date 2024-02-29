@@ -1,1 +1,9 @@
 
+button {
+    background-color: ghostwhite;
+}
+/* this code already in main.css for some reason ??? */
+button :hover {
+    background-color: cornflowerblue;
+
+}
